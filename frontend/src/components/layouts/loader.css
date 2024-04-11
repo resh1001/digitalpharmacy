@@ -1,0 +1,12 @@
+.loader-container {
+    display: flex;
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+    height: 100vh; /* Full height of viewport */
+  }
+  
+  .loader-spinner {
+    /* Add any additional styling for the spinner container if needed */
+    align-items: center;
+  }
+  
